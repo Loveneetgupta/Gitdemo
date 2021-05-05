@@ -26,6 +26,9 @@ public class Primenumber {
 			System.out.println("Number is  prime");
 		}
 
+		//End of the program ..
+		
+		
 	}
 
 }
